@@ -31,7 +31,7 @@ The example is explained in more details in the application note [AN2547](http:/
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `AVR42777Parrot.X` in MPLAB.
+2. Open `attiny817-digital-sound-recorder-with-parrot-mplab.X` in MPLAB.
 3. Connect the usb power and the debugger with your computer. 
 4. Make sure the kit is selected as the tool to be programmed under project settings.
 5. Press the make and program button to program the device.
