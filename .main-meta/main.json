@@ -1,0 +1,93 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.mplab.project.attiny817-digital-sound-recorder-with-parrot-mplab",
+        "version": "1.0.0",
+        "displayName": "Digital Sound Recorder With Parrot",
+        "projectName": "attiny817-digital-sound-recorder-with-parrot-mplab",
+        "shortDescription": "ATtiny817 Digital Sound Recorder using DAC with parrot",
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.40"
+        },
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": "^2.20"
+            }
+        ],
+        "dfp": {
+            "name": "ATtiny_DFP",
+            "semverRange": "^2.3.92"
+        },
+        "configurator": {
+            "name": "N/A",
+            "semverRange": ""
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "ATtiny817",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "subcategories": [
+            [
+                "Peripherals",
+                "ADC"
+            ],
+            [
+                "Peripherals",
+                "DAC"
+            ],
+            [
+                "Peripherals",
+                "EVSYS"
+            ],
+            [
+                "Peripherals",
+                "SPI"
+            ],
+            [
+                "Peripherals",
+                "TCA"
+            ],
+            [
+                "Development Kit",
+                "AVR Parrot"
+            ],
+            [
+                "Supporting Tools",
+                "Atmel-ICE"
+            ]
+        ],
+        "peripherals": [
+            "ADC",
+            "DAC",
+            "EVSYS",
+            "SPI",
+            "TCA"
+        ],
+        "keywords": [
+            "",
+            ""
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
