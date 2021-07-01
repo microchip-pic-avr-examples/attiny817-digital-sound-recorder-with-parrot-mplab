@@ -4,18 +4,18 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplab.project.attiny817-digital-sound-recorder-with-parrot-mplab",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Digital Sound Recorder With Parrot",
         "projectName": "attiny817-digital-sound-recorder-with-parrot-mplab",
         "shortDescription": "ATtiny817 Digital Sound Recorder using DAC with parrot",
         "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.20"
+                "semverRange": "^2.20.0"
             }
         ],
         "dfp": {
