@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplab.project.attiny817-digital-sound-recorder-with-parrot-mplab",
+        "name": "com.microchip.mcu8.mplabx.project.attiny817-digital-sound-recorder-with-parrot-mplab",
         "version": "1.0.1",
         "displayName": "Digital Sound Recorder With Parrot",
         "projectName": "attiny817-digital-sound-recorder-with-parrot-mplab",
