@@ -2,7 +2,7 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny817-digital-sound-recorder-with-parrot-mplab",
         "version": "1.0.1",
         "displayName": "Digital Sound Recorder With Parrot",
@@ -32,41 +32,11 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATtiny817",
+                "name": "ATTINY817",
                 "versionRange": "*"
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            [
-                "Peripherals",
-                "ADC"
-            ],
-            [
-                "Peripherals",
-                "DAC"
-            ],
-            [
-                "Peripherals",
-                "EVSYS"
-            ],
-            [
-                "Peripherals",
-                "SPI"
-            ],
-            [
-                "Peripherals",
-                "TCA"
-            ],
-            [
-                "Development Kit",
-                "AVR Parrot"
-            ],
-            [
-                "Supporting Tools",
-                "Atmel-ICE"
-            ]
-        ],
         "peripherals": [
             "ADC",
             "DAC",
