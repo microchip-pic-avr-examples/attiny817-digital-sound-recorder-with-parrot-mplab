@@ -25,11 +25,11 @@
         <targetPluginBoard />
         <platformTool>PowerDebuggerTool</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.20</languageToolchainVersion>
+        <languageToolchainVersion>3.00</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="ATtiny_DFP" vendor="Microchip" version="2.3.92" />
+        <pack name="ATtiny_DFP" vendor="Microchip" version="3.3.272" />
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
@@ -463,7 +463,7 @@
         <property key="gcc-opt-std" value="${gcc-opt-std.default}" />
         <property key="gcc-output-file-format" value="dwarf-3" />
         <property key="omit-pack-options" value="false" />
-        <property key="omit-pack-options-new" value="3" />
+        <property key="omit-pack-options-new" value="1" />
         <property key="output-file-format" value="-mcof,+elf" />
         <property key="stack-size-high" value="auto" />
         <property key="stack-size-low" value="auto" />
@@ -481,11 +481,11 @@
         <targetPluginBoard />
         <platformTool>PowerDebuggerTool</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.20</languageToolchainVersion>
+        <languageToolchainVersion>3.00</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="ATtiny_DFP" vendor="Microchip" version="2.3.92" />
+        <pack name="ATtiny_DFP" vendor="Microchip" version="3.3.272" />
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
@@ -919,7 +919,7 @@
         <property key="gcc-opt-std" value="${gcc-opt-std.default}" />
         <property key="gcc-output-file-format" value="dwarf-3" />
         <property key="omit-pack-options" value="false" />
-        <property key="omit-pack-options-new" value="3" />
+        <property key="omit-pack-options-new" value="1" />
         <property key="output-file-format" value="-mcof,+elf" />
         <property key="stack-size-high" value="auto" />
         <property key="stack-size-low" value="auto" />
