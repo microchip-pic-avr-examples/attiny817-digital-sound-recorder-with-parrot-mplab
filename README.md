@@ -14,9 +14,9 @@ The example is explained in more details in the application note [AN2547](http:/
 
 ## Software Used
 
-- [MPLAB X IDE v5.40 or later](https://www.microchip.com/mplab/mplab-x-ide)
-- [XC8 (v2.20)](https://www.microchip.com/mplab/compilers) alternatively [AVR/GNU C Compiler 5.4.0](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) can be used
-- ATtiny_DFP 2.2.89 or later
+- [MPLAB X IDE v6.25 or later](https://www.microchip.com/mplab/mplab-x-ide)
+- [XC8 (v3.00)](https://www.microchip.com/mplab/compilers) alternatively [AVR/GNU C Compiler 5.4.0](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) can be used
+- ATtiny_DFP 3.3.272 or later
 
 ## Hardware Used
 
