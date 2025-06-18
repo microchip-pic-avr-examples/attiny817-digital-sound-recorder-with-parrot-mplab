@@ -10,17 +10,17 @@
         "shortDescription": "ATtiny817 Digital Sound Recorder using DAC with parrot",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.40.0"
+            "semverRange": ">=6.25.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.20.0"
+                "semverRange": "^3.00.0"
             }
         ],
         "dfp": {
             "name": "ATtiny_DFP",
-            "semverRange": "^2.3.92"
+            "semverRange": "^3.3.272"
         },
         "configurator": {
             "name": "N/A",
